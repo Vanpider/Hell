@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164a9133cad30054992621441389f4d8, type: 3}
+  m_Name: New Wave Config
+  m_EditorClassIdentifier: 
+  path: {fileID: 7362932902443722559, guid: 577af2e36aae5d4489ed8580417838f4, type: 3}
+  speed: 1

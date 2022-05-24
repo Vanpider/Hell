@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Vanpider.unity
+    guid: cb964b4208e008148b460b56c9319445
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d8d8587c4e5f32742bd9d8e5a78e23c2
+  - enabled: 1
+    path: Assets/Scenes/TheGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0c9364831cf05624a985d06d33878742, type: 2}
